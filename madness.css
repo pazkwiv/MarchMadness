@@ -1,0 +1,73 @@
+div.division {
+    background-color: #FFF;
+}
+
+
+div.pair {
+	background-color:#EEE;	
+	padding:5px;
+}
+
+span.team {
+	border-style:solid;
+}
+
+
+
+#hwest {
+	clear:both;
+}
+
+#hmidwest {
+	clear:both;
+}
+
+#hsouth {
+	clear:both;
+}
+#hchamp {
+	clear:both;
+}
+
+#er1 {
+	float:left;
+	margin:10px;
+	padding:10px;
+	
+}
+
+#er2
+{
+float:left;
+margin:10px;
+padding:10px;
+vertical-align:bottom;
+}
+
+#er3
+{
+float:left;
+margin:10px;
+padding:10px;
+}
+
+#er4
+{
+float:left;
+margin:10px;
+padding:10px;
+}
+
+#er5
+{
+float:left;
+margin:10px;
+padding:10px;
+}
+
+
+button {
+	visibility:visible;
+	background-color: lightblue;
+	border-radius: 25px;
+}
